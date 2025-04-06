@@ -11,7 +11,7 @@ Anyone who's eager to build, contribute, and learn — whether you're into web d
 3. Start contributing!
 
 ## 📌 Technologies Involved
-- Node.js
+- Web
 - C++
 - Java
 - SQL
